@@ -1,4 +1,5 @@
-# 👋 ¡Hola a todos! Soy Asairi Nava
+# 👋 ¡Hola a todos! Soy Asairi Nava  
+💡 Data Analyst | AI Engineer en formación | BI & Data Science | E-commerce · Supply Chain · Retail · Inventarios  
 
 Soy **Data Analyst** con más de 4 años de experiencia en análisis de datos y más de 14 años en administración y atención al cliente.  
 He trabajado en **consultoría, fintech y logística**, desarrollando dashboards interactivos en **Power BI, Tableau y Looker Studio**, y gestionando bases de datos con **SQL, Python, Snowflake y Databricks**.  

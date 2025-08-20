@@ -4,7 +4,9 @@ Soy **Data Analyst** con más de 4 años de experiencia en análisis de datos y 
 He trabajado en **consultoría, fintech y logística**, desarrollando dashboards interactivos en **Power BI, Tableau y Looker Studio**, y gestionando bases de datos con **SQL, Python, Snowflake y Databricks**.  
 
 Me motiva crear soluciones analíticas que no solo respondan preguntas, sino que anticipen necesidades, optimicen procesos y generen valor real en los negocios.  
-Actualmente me encuentro en proceso de especialización como **AI Engineer**, explorando cómo aplicar **Inteligencia Artificial y analítica avanzada** en **e-commerce, supply chain, retail e inventarios**:contentReference[oaicite:0]{index=0}.
+Actualmente me encuentro en proceso de especialización como **AI Engineer**, explorando cómo aplicar **Inteligencia Artificial y analítica avanzada** en **e-commerce, supply chain, retail e inventarios**.
+
+---
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -18,6 +20,8 @@ Actualmente me encuentro en proceso de especialización como **AI Engineer**, ex
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+---
 
 ## 📊 Experiencia Profesional
 
@@ -36,3 +40,41 @@ Actualmente me encuentro en proceso de especialización como **AI Engineer**, ex
 - **Data Analyst | Ironhack (2020 - 2021)**  
   Web scraping con Python y visualización de métricas clave en Tableau y Power BI.  
 
+---
+
+## 📌 Proyectos Destacados
+
+- [📄 Automatización Aduanera con IA](https://github.com/AsairiNava/Automatizacion-Aduanera-con-IA.ipynb.git)  
+  Proyecto de **Procesamiento de Lenguaje Natural (NLP)** para leer facturas, identificar productos y clasificarlos según códigos arancelarios, generando documentación aduanal y predicción de costos.
+
+- [📦 Gestión Inteligente de Inventarios Internacionales](https://github.com/AsairiNava/Gestion_inteligente_de_inventarios_internacionales.git)  
+  Plataforma para **forecasting y optimización de inventario distribuido**, con recomendaciones sobre ubicación óptima del stock en mercados internacionales.
+
+- [🚚 Optimización de Rutas Logísticas](https://github.com/AsairiNava/optimizacion-rutas.git)  
+  Aplicación para **optimizar rutas de distribución en e-commerce transfronterizo**, incorporando modelos de predicción y algoritmos de optimización.
+
+- [⚽ Prospectos Liga MX 2025](https://github.com/AsairiNava/posibles_prospectos_liga_mx_2025.git)  
+  Análisis de desempeño de jugadores de la **Liga MX** para identificar prospectos destacados y conformar un equipo competitivo con base en métricas de rendimiento.
+
+---
+
+## 📈 Estadísticas
+
+![Asairi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsairiNava&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsairiNava&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Formación y Certificaciones
+
+- **Data Scientist | CoderHouse (2023)**  
+- **Data Analyst | Ironhack (2021)**  
+- **Lic. en Comercio Internacional y Logística | UVM San Rafael (2015)**  
+- **Voluntariado | Laboratoria+ (Mentor en Data Analytics)**  
+
+---
+
+## 📫 Conecta conmigo
+
+- [LinkedIn](https://linkedin.com/in/asairi-nava)  
+- [Email](mailto:asairi1@hotmail.com)  

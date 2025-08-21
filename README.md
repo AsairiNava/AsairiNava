@@ -27,7 +27,7 @@ Actualmente me encuentro en proceso de especialización como **AI Engineer**, ex
 ## 📊 Experiencia Profesional
 
 - **Data Analyst | La Casa de Toño (2025 - Actualidad)**  
-  Creación de dashboards en Power BI que mejoraron la eficiencia de producción en un 15% y redujeron quiebres de stock en un 20%.  
+  Objetivos en definición con Operaciones; desarrollé un **script de predicción de stock de panadería en Python** para mantener el inventario **entre 60–80% diario por sucursal**, con **alertas** cuando queda fuera de rango.
 
 - **Data Analysis Specialist | Clip (2024 - 2025)**  
   Corrección de márgenes de error en KPIs financieros (de 25% a 20%), automatización de dashboards de servicios financieros y validación de datos bancarios.  

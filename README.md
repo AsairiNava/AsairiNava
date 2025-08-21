@@ -45,17 +45,29 @@ Actualmente me encuentro en proceso de especialización como **AI Engineer**, ex
 
 ## 📌 Proyectos Destacados
 
-- [📄 Automatización Aduanera con IA](https://github.com/AsairiNava/Automatizacion-Aduanera-con-IA.ipynb.git)  
-  Proyecto de **Procesamiento de Lenguaje Natural (NLP)** para leer facturas, identificar productos y clasificarlos según códigos arancelarios, generando documentación aduanal y predicción de costos.
+💳 **Evaluación de Riesgo Crediticio (Credit Risk Pro)**
+Pipeline end-to-end para scoring de crédito con **LightGBM + Optuna + calibración de probabilidades + umbral por costo + SHAP** y **app en Streamlit**. Dataset: **UCI Default of Credit Card Clients**. _Resultados actuales:_ **AUC ≈ 0.774**, **AP ≈ 0.544**.  
+https://credit-risk-pro-iozjk4hsjjv84eoshppcci.streamlit.app/
+https://github.com/AsairiNava/credit-risk-pro.git
 
-- [📦 Gestión Inteligente de Inventarios Internacionales](https://github.com/AsairiNava/Gestion_inteligente_de_inventarios_internacionales.git)  
-  Plataforma para **forecasting y optimización de inventario distribuido**, con recomendaciones sobre ubicación óptima del stock en mercados internacionales.
+📄 **Automatización Aduanera con IA**  
+Proyecto de NLP para leer facturas, identificar productos y clasificarlos según códigos arancelarios, generando documentación aduanal y predicción de costos.
+https://automatizacion-aduanera-con-ia.streamlit.app/
+https://github.com/AsairiNava/Automatizacion-Aduanera-con-IA.ipynb.git
 
-- [🚚 Optimización de Rutas Logísticas](https://github.com/AsairiNava/optimizacion-rutas.git)  
-  Aplicación para **optimizar rutas de distribución en e-commerce transfronterizo**, incorporando modelos de predicción y algoritmos de optimización.
+📦 **Gestión Inteligente de Inventarios Internacionales**  
+Plataforma para forecasting y optimización de inventario distribuido, con recomendaciones sobre ubicación óptima del stock en mercados internacionales.
+https://gestioninventintelinter.streamlit.app/
+https://github.com/AsairiNava/Gestion_inteligente_de_inventarios_internacionales.git
 
-- [⚽ Prospectos Liga MX 2025](https://github.com/AsairiNava/posibles_prospectos_liga_mx_2025.git)  
-  Análisis de desempeño de jugadores de la **Liga MX** para identificar prospectos destacados y conformar un equipo competitivo con base en métricas de rendimiento.
+🚚 **Optimización de Rutas Logísticas**  
+Aplicación para optimizar rutas de distribución en e-commerce transfronterizo, incorporando modelos de predicción y algoritmos de optimización.
+https://asairinava-optimizacion-rutas.streamlit.app/
+https://github.com/AsairiNava/optimizacion-rutas.git
+
+⚽ **Prospectos Liga MX 2025**  
+Análisis de desempeño de jugadores de la Liga MX para identificar prospectos destacados y conformar un equipo competitivo con base en métricas de rendimiento.
+https://github.com/AsairiNava/posibles_prospectos_liga_mx_2025.git
 
 ---
 
